@@ -1,0 +1,20 @@
+{
+    "workbench.enableExperiments": false,
+    "workbench.settings.enableNaturalLanguageSearch": false,
+    "update.mode": "none",
+    "update.showReleaseNotes": false,
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": false,
+    "editor.minimap.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "'Hack', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "debug.onTaskErrors": "showErrors",
+    "clangd.path": "/home/evgeniy/git/llvm-project/build30-11-2019/bin/clangd",
+    "extensions.ignoreRecommendations": true,
+    "clangd.arguments": [
+        "--header-insertion=never"
+    ]
+}
