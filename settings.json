@@ -12,9 +12,5 @@
     "files.autoSave": "onFocusChange",
     "editor.fontFamily": "'Hack', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "debug.onTaskErrors": "showErrors",
-    "clangd.path": "/home/evgeniy/git/llvm-project/build30-11-2019/bin/clangd",
-    "extensions.ignoreRecommendations": true,
-    "clangd.arguments": [
-        "--header-insertion=never"
-    ]
+    "extensions.ignoreRecommendations": true
 }
