@@ -12,5 +12,12 @@
     "files.autoSave": "onFocusChange",
     "editor.fontFamily": "'Hack', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "debug.onTaskErrors": "showErrors",
-    "extensions.ignoreRecommendations": true
+    "extensions.ignoreRecommendations": true,
+    "extensions.showRecommendationsOnlyOnDemand": true,
+    "window.zoomLevel": 0,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.snippetSuggestions": "top",
+    "editor.suggest.maxVisibleSuggestions": 15,
+    "editor.suggestSelection": "first",
+    "editor.suggest.showWords": false,
 }
