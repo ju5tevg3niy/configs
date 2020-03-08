@@ -10,7 +10,6 @@
     "editor.minimap.enabled": true,
     "diffEditor.ignoreTrimWhitespace": false,
     "files.autoSave": "onFocusChange",
-    "editor.fontFamily": "'Hack', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "debug.onTaskErrors": "showErrors",
     "extensions.ignoreRecommendations": true,
     "extensions.showRecommendationsOnlyOnDemand": true,
