@@ -11,4 +11,13 @@
     "files.autoSave": "onFocusChange",
     "extensions.ignoreRecommendations": true,
     "extensions.showRecommendationsOnlyOnDemand": true,
+    "clangd.arguments": [
+        "-clang-tidy",
+        "--header-insertion=never"
+    ],
+    "debug.onTaskErrors": "abort",
+    "extensions.autoUpdate": false,
+    "shellcheck.customArgs": [
+        "-x"
+    ]
 }
